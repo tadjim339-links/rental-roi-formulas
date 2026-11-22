@@ -1,0 +1,1 @@
+{"name":"rental-roi-formulas","version":"1.0.0","description":"Mortgage payment, monthly cash flow, NOI, cap rate and cash-on-cash return for a rental property","main":"index.js","scripts":{"test":"node test.js"},"license":"MIT","homepage":"https://rentalroianalyzer.com/"}
